@@ -3,7 +3,7 @@
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
-      "launchUrl": "api/provincia",
+      "launchUrl": "api/ciudad",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
